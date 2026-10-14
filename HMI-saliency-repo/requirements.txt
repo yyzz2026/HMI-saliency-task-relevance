@@ -1,0 +1,8 @@
+numpy
+scipy
+opencv-contrib-python
+matplotlib
+pandas
+scikit-learn
+pysaliency==0.2.22
+oct2py

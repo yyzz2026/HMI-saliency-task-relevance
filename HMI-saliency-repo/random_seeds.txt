@@ -1,0 +1,3 @@
+Permutation test: 42
+Bootstrap CI: 42
+Random baseline: 42
